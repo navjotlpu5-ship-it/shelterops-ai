@@ -1,0 +1,6 @@
+{
+  "name": "ShelterOps AI",
+  "description": "AI-based disaster prediction, risk assessment, and smart emergency shelter allocation system across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
